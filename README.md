@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 Working on: Full-stack projects 🚀<br>👯 Collaborating on: Cool web projects<br>🤝 Looking for: Better coding & problem-solving<br>🌱 Currently Busy Learning<br>💬 Ask me about Web dev & my projects<br>⚡ I debug more than I code. 🐛😄
 
+🌐 **Live Portfolio:** [yudii.vercel.app](https://yudii.vercel.app/)
+
+Explore my projects, technical skills, and full-stack development journey.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theanmolahir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yudii/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/yudii1107) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yudi110705@gmail.com) 
